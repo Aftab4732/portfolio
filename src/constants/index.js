@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/My Project1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/Portfolio1.jpg";
+import project3 from "../assets/projects/Portfolio6.jpg";
 
 
 export const HERO_CONTENT = `I am a dedicated and passionate full stack developer with a strong foundation in building robust and scalable web applications. During my undergraduate studies, I have gained practical experience in front-end technologies like React,Html,Css and back-end technologies such as Node.js, Express, PHP, Python, and databases including MySQL and MongoDB. My projects have involved implementing RESTful APIs, managing databases, and collaborating with team members to deliver efficient and user-friendly solutions. I am eager to leverage my skills to contribute to innovative projects and continue learning in a dynamic development environment.`;
