@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     company: "Ebrain Technologies (ProU Education)",
     description: `Contributed to the development and maintenance of web applications using JavaScript, HTML, and CSS during my internship. Assisted in implementing Quiz Web-application. Worked closely on project to gather requirements and ensure project timelines were met`,
     technologies: ["Javascript", "HTML", "CSS"],
-  }
+  },
   
   {
     year: "2024-2025",
