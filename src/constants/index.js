@@ -16,6 +16,14 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "HTML", "CSS"],
   }
   
+  {
+    year: "2024-2025",
+    role: "Web Developer",
+    company: "MaMo Technolabs LLP",
+    description: `Developed an AI-driven career recommendation system to match users with suitable career paths.Implemented Google Gemini AI for quiz generation, enhancing personalized assessments. Built a quiz system with Google Gemini AI for adaptive assessments. Created a learning path generator mapping skill gaps with Udemy courses`,
+    technologies: ["Javascript", "HTML", "CSS","Tailwind CSS","React.js,Node.js"],
+  }
+  
 ];
 
 export const PROJECTS = [
@@ -34,10 +42,10 @@ export const PROJECTS = [
     technologies: ["PHP","Mysql"],
   },
   {
-    title: "Portfolio Website",
+    title: "AI-Powered Career Path Simulator",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "This AI-Powered Career Path Simulator is a comprehensive career guidance platform built with React, Node.js, and MongoDB that leverages OpenAI and Google Gemini AI technologies to deliver personalized recommendations. The system performs real-time job market analysis through web scraping with Puppeteer and various APIs, while featuring an adaptive quiz system for accurate skills assessment. Users receive customized learning paths that map their skill gaps to relevant Udemy courses, creating a seamless professional development experience that bridges their current abilities with career aspirations.",
     technologies: ["HTML", "Tailwind CSS", "React"],
   },
 
